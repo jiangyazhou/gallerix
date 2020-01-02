@@ -32,7 +32,7 @@
         }
     },
     "update" : {
-        "force" : "0",
+        "force" : "1",
         "version" : "2.2"
     }
 }
